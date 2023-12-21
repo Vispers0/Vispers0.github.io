@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Vispers0.github.io/Vispers0"
+  "homepage": "https://Vispers0.github.io/Vispers0",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
